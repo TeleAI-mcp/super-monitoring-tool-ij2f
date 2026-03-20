@@ -1,2 +1,3 @@
-# super-monitoring-tool-ij2f
-Automated issue comment bot repository
+# Super Monitoring Tool Ij2F
+
+Automated issue comment bot repository.
